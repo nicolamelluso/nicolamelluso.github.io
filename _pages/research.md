@@ -6,7 +6,8 @@ title: Research
 
 ## Publications
 
-[Beyond citations: Measuring novel scientific ideas and their impact in publication text](https://arxiv.org/abs/2309.16437) (with Sam Arts and Reinhilde Veugeles)
+[Beyond citations: Measuring novel scientific ideas and their impact in publication text](https://arxiv.org/abs/2309.16437) (with _Sam Arts_ and _Reinhilde Veugelers_)
+Forthcoming, *Review of Economics and Statistics*
 - [Data](https://zenodo.org/records/13869486)
 - [Code](https://github.com/nicolamelluso/science-novelty)
 
