@@ -21,6 +21,11 @@ High Risk - High Reward: myth or reality?
   <summary><strong>Management Engineering</strong></summary>
   <ul>
     <li>
+      <a href="https://link.springer.com/article/10.1007/s11192-022-04368-9">Exploring the antecedents of interdisciplinarity at the European Research Council: a topic modeling approach</a>a
+      (with <em>Andrea Bonaccorsi</em>, <em>Filippo Chiarello</em>, and <em>Gualtiero Fantoni</em>)<br>
+      <em>Scientometrics</em>, 2022<br>
+    </li>
+    <li>
       <strong>A patent text mining based map: Topics and their trajectories over time</strong><br>
       (with <em>Filippo Chiarello</em>, <em>Andrea Bonaccorsi</em>, and <em>Gualtiero Fantoni</em>)<br>
       <em>Proceedings of the Design Society: International Conference on Engineering Design</em>, 2019<br>
