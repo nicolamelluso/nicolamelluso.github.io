@@ -28,7 +28,7 @@ author:
   location         : "Lueven, Belgium"
   employer         : "KU Leuven / LUISS"
   uri              : # URL
-  email            : "nicolamelluso@gmail.com" 
+  email            : "nicola.melluso@kuleuven.be" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/nicolamelluso/"
+  github           : "nicolamelluso/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "nicolamelluso"
+  linkedin         : "nicola-melluso/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "nicolamelluso"
+  twitter          : "nicola_melluso"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
