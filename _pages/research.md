@@ -14,7 +14,7 @@ Forthcoming, *Review of Economics and Statistics*
 ## Working Papers
 
 **High Risk - High Reward: myth or reality?**
-<br>Paper presented in seminars at the following venues: _LUISS_, _UNU-MERIT_ and _University of Strasbourg_.<br>
+<br>Paper presented in seminars at the following venues: _LUISS_, _UNU-MERIT_ and _University of Strasbourg_.
 <br>Paper presented at the following conferences: _DRUID 2024_, _STI 2024_ and _WOEPS 2024_.<br>
 
 **New Scientific Ideas and Technological Impact** (with Sam Arts)
