@@ -25,7 +25,7 @@ Forthcoming, *Review of Economics and Statistics*
 # Management Engineering
 
 <details>
-  <summary>Publications:</summary>
+  <summary>Publications</summary>
   <ul>
     <li>
       <a href="https://link.springer.com/article/10.1007/s11192-022-04368-9">Exploring the antecedents of interdisciplinarity at the European Research Council: a topic modeling approach</a>a
