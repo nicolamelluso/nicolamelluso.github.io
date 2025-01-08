@@ -17,38 +17,43 @@ New Scientific Ideas and Technological Impact (with Sam Arts)
 
 High Risk - High Reward: myth or reality?
 
-# Management Engineering
-
 <details>
   <summary><strong>Management Engineering</strong></summary>
-
-  **A patent text mining based map: Topics and their trajectories over time**  
-  (with _Filippo Chiarello_, _Andrea Bonaccorsi_, and _Gualtiero Fantoni_)  
-  *Proceedings of the Design Society: International Conference on Engineering Design*, 2019  
-  - [Link](https://doi.org/10.1017/dsi.2019.88)
-
-  **Approaches to automatically extract affordances from patents**  
-  (with _Filippo Chiarello_, _Irene Cirri_, _Gualtiero Fantoni_, _Andrea Bonaccorsi_, and _Tommaso Pavanello_)  
-  *Proceedings of the Design Society: International Conference on Engineering Design*, 2019  
-  - [Link](https://doi.org/10.1017/dsi.2019.89)
-
-  **Text Mining for Innovation Measurement**  
-  *Innovating for People and Territories*, 2022  
-  - [Link](https://doi.org/10.1007/978-3-030-90551-5_5)
-
-  **The Grammars of Objectives and Key Results**  
-  (with _Giuseppe Caruso_, _Gualtiero Fantoni_, _Vito Giordano_, and _Andrea Martini_)  
-  *Leading Digital Transformation*, 2022  
-  - [Link](https://doi.org/10.1007/978-3-030-84849-2_6)
-
-  **Fast Detection of Relationships between Technologies and Skills: Applying Text Mining to Unconventional Data Sources**  
-  (with _Andrea Bonaccorsi_ and _Andrea Martini_)  
-  *Innovating for People and Territories*, 2022  
-  - [Link](https://doi.org/10.1007/978-3-030-90551-5_6)
-
-  **How to do research on the societal impact of research? Studies from a semantic perspective**  
-  (with _Andrea Bonaccorsi_, _Filippo Chiarello_, and _Gualtiero Fantoni_)  
-  *18th International Conference on Scientometrics and Informetrics (ISSI 2021)*, 2021  
-  - [Link](https://arxiv.org/abs/2103.17198)
+  <ul>
+    <li>
+      <strong>A patent text mining based map: Topics and their trajectories over time</strong><br>
+      (with <em>Filippo Chiarello</em>, <em>Andrea Bonaccorsi</em>, and <em>Gualtiero Fantoni</em>)<br>
+      <em>Proceedings of the Design Society: International Conference on Engineering Design</em>, 2019<br>
+      <a href="https://doi.org/10.1017/dsi.2019.88">Link</a>
+    </li>
+    <li>
+      <strong>Approaches to automatically extract affordances from patents</strong><br>
+      (with <em>Filippo Chiarello</em>, <em>Irene Cirri</em>, <em>Gualtiero Fantoni</em>, <em>Andrea Bonaccorsi</em>, and <em>Tommaso Pavanello</em>)<br>
+      <em>Proceedings of the Design Society: International Conference on Engineering Design</em>, 2019<br>
+      <a href="https://doi.org/10.1017/dsi.2019.89">Link</a>
+    </li>
+    <li>
+      <strong>Text Mining for Innovation Measurement</strong><br>
+      <em>Innovating for People and Territories</em>, 2022<br>
+      <a href="https://doi.org/10.1007/978-3-030-90551-5_5">Link</a>
+    </li>
+    <li>
+      <strong>The Grammars of Objectives and Key Results</strong><br>
+      (with <em>Giuseppe Caruso</em>, <em>Gualtiero Fantoni</em>, <em>Vito Giordano</em>, and <em>Andrea Martini</em>)<br>
+      <em>Leading Digital Transformation</em>, 2022<br>
+      <a href="https://doi.org/10.1007/978-3-030-84849-2_6">Link</a>
+    </li>
+    <li>
+      <strong>Fast Detection of Relationships between Technologies and Skills: Applying Text Mining to Unconventional Data Sources</strong><br>
+      (with <em>Andrea Bonaccorsi</em> and <em>Andrea Martini</em>)<br>
+      <em>Innovating for People and Territories</em>, 2022<br>
+      <a href="https://doi.org/10.1007/978-3-030-90551-5_6">Link</a>
+    </li>
+    <li>
+      <strong>How to do research on the societal impact of research? Studies from a semantic perspective</strong><br>
+      (with <em>Andrea Bonaccorsi</em>, <em>Filippo Chiarello</em>, and <em>Gualtiero Fantoni</em>)<br>
+      <em>18th International Conference on Scientometrics and Informetrics (ISSI 2021)</em>, 2021<br>
+      <a href="https://arxiv.org/abs/2103.17198">Link</a>
+    </li>
+  </ul>
 </details>
-
