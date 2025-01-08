@@ -14,21 +14,21 @@ name                     : &name "Nicola Melluso"
 description              : &description "personal description"
 url                      : https://nicolamelluso.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/nicolamelluso.github.io"
+repository               : "nicolamelluso.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/nicolamelluso.png"
+  name             : "Nicola Melluso"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Post-doc"
+  location         : "Lueven, Belgium"
+  employer         : "KU Leuven / LUISS"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nicolamelluso@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
