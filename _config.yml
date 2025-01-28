@@ -157,6 +157,7 @@ include:
   - _pages
   - files
 exclude:
+  - googlee01217381fb9f9a1.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
