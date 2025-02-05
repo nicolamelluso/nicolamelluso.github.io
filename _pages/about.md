@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Nicola Melluso"
 author_profile: true
 redirect_from: 
   - /about/
