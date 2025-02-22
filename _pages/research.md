@@ -14,9 +14,7 @@ title: Economics of Science
 ## Working Papers
 
 **[Is Novel Research Always Risky](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)**
-
-<br>Paper presented in seminars at the following venues: _LUISS_, _UNU-MERIT_ and _University of Strasbourg_.
-<br>Paper presented at the following conferences: _DRUID 2024_, _STI 2024_ and _WOEPS 2024_.<br>
+<br>Paper presented in seminars at _DRUID 2024_, _STI 2024_ and _WOEPS 2024_ and in seminars in _LUISS_, _UNU-MERIT_ and _University of Strasbourg_.
 
 **New Scientific Ideas and Technological Impact** (with Sam Arts)
 
