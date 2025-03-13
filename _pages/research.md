@@ -13,10 +13,12 @@ title: Economics of Science
 
 ## Working Papers
 
-**[Is Novel Research Always Risky?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)**
+[Is Novel Research Always Risky?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
 <br>Paper presented at seminars during _DRUID 2024_, _STI 2024_, and _WOEPS 2024_, as well as at seminars held at _LUISS_, _UNU-MERIT_, and the _University of Strasbourg_.
 
-**New Scientific Ideas and Technological Impact** (with Sam Arts)
+**New Scientific Ideas and Technological Impact** (with _Sam Arts_)
+
+**The Innovation Edge: Novelty and Value Creation of Enduring Companies** (with _Gino Cattani_ and _Mariano Mastrogiorgio_.)
 
 
 ---
