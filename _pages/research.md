@@ -8,7 +8,7 @@ title: Economics of Science
 
 [Beyond citations: Measuring novel scientific ideas and their impact in publication text](https://doi.org/10.1162/rest_a_01561)<br>(with _Sam Arts_ and _Reinhilde Veugelers_)<br>
 *Review of Economics and Statistics*. 1-33.
-- [Data](https://zenodo.org/records/13869486)
+- [Data](https://zenodo.org/records/13902060)
 - [Code](https://github.com/nicolamelluso/science-novelty)
 
 ## Working Papers
