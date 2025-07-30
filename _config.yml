@@ -24,11 +24,11 @@ author:
   avatar           : "famelab_oval.png"
   name             : "Nicola Melluso"
   pronouns         : # example: "she/her"  
-  bio              : "Post-doc"
-  location         : "Lueven, Belgium"
-  employer         : "KU Leuven / LUISS"
+  bio              : "Assistant Professor"
+  location         : "Rome, Italy"
+  employer         : "LUISS"
   uri              : # URL
-  email            : "nicola.melluso@kuleuven.be" 
+  email            : "nmelluso@luiss.it" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
