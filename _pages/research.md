@@ -14,9 +14,9 @@ title: Economics of Science
 ## Working Papers
 
 [Is Novel Research Always Risky?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
-<br>_Under Review_.
+<br>_Conditionally Accepted_ at Research Policy.
 
-**New Scientific Ideas and Technological Impact** (with _Sam Arts_)
+**Hidden Reliance on Science and Firm Performances** (with _Sam Arts_)
 
 **The Innovation Edge: Novelty and Value Creation of Enduring Companies** (with _Gino Cattani_ and _Mariano Mastrogiorgio_)
 
