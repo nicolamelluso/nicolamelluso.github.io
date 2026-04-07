@@ -13,7 +13,7 @@ title: Economics of Science
 
 ## Working Papers
 
-[Is Novel Research Always Risky?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
+[Complexity and the Impact of Novel Research?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
 <br>_Conditionally Accepted_ at Research Policy.
 
 **Hidden Reliance on Science and Firm Performances** (with _Sam Arts_)
