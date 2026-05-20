@@ -16,8 +16,10 @@ title: Economics of Science
 [Complexity and the Impact of Novel Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
 <br>_Conditionally Accepted_ at Research Policy
 
+
 **Hidden Reliance on Science and Firm Innovation** (with _Sam Arts_)
 - *Best Paper Award - Academy of Management 2026*
+
 
 **Resource Retention, Redeployment and Firm Performances** (with _Gino Cattani_ and _Mariano Mastrogiorgio_)
 
