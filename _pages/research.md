@@ -13,13 +13,13 @@ title: Economics of Science
 
 ## Working Papers
 
-[Complexity and the Impact of Novel Research?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
-<br>_Conditionally Accepted_ at Research Policy.
+[Complexity and the Impact of Novel Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
+<br>_Conditionally Accepted_ at Research Policy
 
-**Hidden Reliance on Science and Firm Performances** (with _Sam Arts_)
+**Hidden Reliance on Science and Firm Innovation** (with _Sam Arts_)
+- *Best Paper Award - Academy of Management 2026*
 
-**The Innovation Edge: Novelty and Value Creation of Enduring Companies** (with _Gino Cattani_ and _Mariano Mastrogiorgio_)
-
+**Resource Retention, Redeployment and Firm Performances** (with _Gino Cattani_ and _Mariano Mastrogiorgio_)
 
 ---
 <span style="font-size: 24px">Past contributions to</span>
