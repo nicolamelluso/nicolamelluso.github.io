@@ -13,7 +13,7 @@ title: Economics of Science
 
 
 [Complexity and the Uncertain Impact of Novel Science](https://authors.elsevier.com/sd/article/S0048-7333(26)00161-7) (single author) <br>
-*Research Policy*
+*Research Policy*. 55-8.
 - [Data](https://zenodo.org/records/20813592)
 
 
