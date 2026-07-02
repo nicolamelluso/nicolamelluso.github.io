@@ -12,8 +12,8 @@ title: Economics of Science
 - [Code](https://github.com/nicolamelluso/science-novelty)
 
 
-[Complexity and the Uncertain Impact of Novel Science](https://authors.elsevier.com/sd/article/S0048-7333(26)00161-7) (single author)
-*Research Policy*. 1-33.
+[Complexity and the Uncertain Impact of Novel Science](https://authors.elsevier.com/sd/article/S0048-7333(26)00161-7) (single author) <br>
+*Research Policy*
 - [Data](https://zenodo.org/records/20813592)
 
 
