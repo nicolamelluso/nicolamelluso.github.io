@@ -11,15 +11,16 @@ title: Economics of Science
 - [Data](https://zenodo.org/records/13902060)
 - [Code](https://github.com/nicolamelluso/science-novelty)
 
+
+[Complexity and the Uncertain Impact of Novel Science](https://authors.elsevier.com/sd/article/S0048-7333(26)00161-7) (single author)
+*Research Policy*. 1-33.
+- [Data](https://zenodo.org/records/20813592)
+
+
 ## Working Papers
-
-[Complexity and the Impact of Novel Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5148652)
-<br>_Conditionally Accepted_ at Research Policy
-
 
 **Hidden Reliance on Science and Firm Innovation** (with _Sam Arts_)
 - *Best Paper Award - Academy of Management 2026*
-
 
 **Resource Retention, Redeployment and Firm Performances** (with _Gino Cattani_ and _Mariano Mastrogiorgio_)
 
